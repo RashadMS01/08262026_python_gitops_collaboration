@@ -5,7 +5,7 @@ dish_count = 2
 price_per_dish = 10
 dinner_budget = 40
 
-
+##This function prints order details
 def print_order_details():
     print("")
     print (chinese_dish)
